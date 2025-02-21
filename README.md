@@ -2,7 +2,7 @@
 
 ## LLM Genearation
 
-I used cline with Anthropic's model to create this code reposistory, consisting of Javascript charting definition, and HTML page and a Markdown document (this file).
+I used [Cline](https://cline.bot/faq) with Anthropic's Claude 3.5 sonnet model to create this code reposistory, consisting of Javascript charting definition, and HTML page and a Markdown document (this file).
 
 After having difficulties having vscode/cline take a screenshot of the html page, I had the LLM use Python's matplotlib to create the chart and the file for embedding. In hindsight, I could have just helped the LLM start an `http.server` in order to serve the local file.
 
