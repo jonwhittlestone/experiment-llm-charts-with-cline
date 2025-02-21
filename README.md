@@ -1,3 +1,30 @@
+# Python Data Visualization Tutorial
+
+## Getting Started
+
+1. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Start Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+3. Open `matplotlib_tutorial.ipynb` in your browser when Jupyter launches
+
+## Tutorial Contents
+
+The notebook demonstrates:
+
+- Using Polars for efficient data handling
+- Creating and customizing charts with Matplotlib
+- Basic data analysis techniques
+- Saving plots to files
+
 # Audi Q4 ETron 45 Range Analysis
 
 ## LLM Genearation
